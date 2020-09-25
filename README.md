@@ -1,5 +1,3 @@
 # CalculatorApp
 
-
-Calculator dasar yang dapat membantu menghitung hal - hal yang simple ( penambahan,pengurangan,perkalian,pembagian)
-Apk -> folder release
+Merupakan project awal perkuliah dimana kita membuat app untuk melakukan operasi hitung matematik
